@@ -1,5 +1,5 @@
 # Equiwaste_Prototype
-This prototype was developed by me and my team mate for a hackathon conducte by 
+This prototype was developed by me and my team mate for a hackathon conducted by 
 IEEE-SSIT for which we won the first prize
 
 # Prblem Statement

@@ -11,3 +11,6 @@ along with the disposal system incorporated by various resident
 societies and industries. Put forth a solution that gives a coherent 
 system to simplify the process thereby providing transparency as 
 well as placing an efficient system into place.
+
+# Tech Stack
+  - HTML 
